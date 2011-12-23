@@ -1,0 +1,25 @@
+#demo {
+  width: 600px;
+  height: 140px;
+  font-size: 14px;
+  border: 1px solid #DDD;
+  border-radius: 3px;
+}
+
+#breadcrumb {
+  margin-left: auto;
+  margin-right: auto;
+  width: 940px;
+}
+
+.breadcrumb {
+  border-radius: 0px;
+  border: 0px;
+  border-bottom: 1px solid #DDDDDD;
+}
+
+.close {
+  border-radius: 0px;
+  border: 0px;
+  border-bottom: 1px solid #DDDDDD;
+}
